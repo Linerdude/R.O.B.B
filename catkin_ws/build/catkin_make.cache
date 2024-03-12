@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/ROBB/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ROBB/catkin_ws/install -G Unix Makefiles
+spacebot_motor_controller
+-DCATKIN_DEVEL_PREFIX=/home/ROBB/R.O.B.B/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ROBB/R.O.B.B/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ROBB/R.O.B.B/catkin_ws/install
+
+Name: spacebot_motor_controller
+Description: Description of spacebot_motor_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
